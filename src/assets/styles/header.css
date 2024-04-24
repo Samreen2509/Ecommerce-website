@@ -2,9 +2,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
 }
 html,body{
     box-sizing: border-box;
+     overflow-x: hidden;
 }
 .header{
     border-bottom: 1px solid rgb(169, 165, 165);
