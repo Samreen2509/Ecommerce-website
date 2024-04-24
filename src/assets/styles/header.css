@@ -59,6 +59,9 @@ html,body{
      .login-btn{
         font-size: 8.5vw;
      }
+    .nav-list{
+    margin: 40px;
+}
 }
 /* small devices (portarits tablets and large phones, 600px and up */
 @media (min-width: 600px)
